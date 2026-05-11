@@ -80,7 +80,7 @@ Python 3.8+
 
 ### Installation
 ```bash
-git clone https://github.com/Viraj5138/MARAS.git
+git clone https://github.com/surajgaikwad1306/MARAS.git
 cd MARAS
 ```
 
@@ -114,7 +114,7 @@ To run a specific comparison mode, refer to `comparison.py` for individual mode 
 
 ## 👤 Author
 
-**Viraj** — [@Viraj5138](https://github.com/Viraj5138)
+**Suraj**-surajgaikwad1306
 
 ---
 
